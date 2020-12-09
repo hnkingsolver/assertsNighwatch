@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="assertVisable"
+    errors="1" failures="0" hostname="" id="" package="assertVisable" skipped="0"
+    tests="1" time="0.007000" timestamp="">
+  
+    <testcase name="Assert Visable" classname="assertVisable" time="0.007000" assertions="0">
+    <error message="Unknown api method &#34;visable&#34;." type="error"><![CDATA[
+    Error: Unknown api method &#34;visable&#34;.
+    at Proxy.&lt;anonymous&gt; (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/api/index.js:133:19)
+    at Object.Assert Visable (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/tests/assertVisable.js:5:24)
+    at Context.call (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/testsuite/context.js:379:35)
+    at TestCase.run (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/testsuite/testcase.js:53:31)
+    at Runnable.__runFn (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/testsuite/index.js:376:80)
+    at Runnable.run (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/testsuite/runnable.js:123:21)
+    at TestSuite.createRunnable (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/testsuite/index.js:443:33)
+    at TestSuite.handleRunnable (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/testsuite/index.js:448:18)
+    at /Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/node_modules/nightwatch/lib/testsuite/index.js:376:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    ]]></error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+        Error: Unknown api method &#34;visable&#34;.
+       at Object.Assert Visable (/Users/hannahkingsolver/Documents/GitHub/assertsNighwatch/tests/assertVisable.js:5:24)
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

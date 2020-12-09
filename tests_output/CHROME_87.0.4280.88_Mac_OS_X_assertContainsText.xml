@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="assertContainsText"
+    errors="0" failures="0" hostname="" id="" package="assertContainsText" skipped="0"
+    tests="2" time="5.325" timestamp="">
+  
+    <testcase name="Assert contains text" classname="assertContainsText" time="1.588" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Expect contains text" classname="assertContainsText" time="3.737" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
